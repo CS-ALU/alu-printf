@@ -1,4 +1,4 @@
-.TH _printf 1 "February 2018" "" "Linux Programmer's Manual"
+.TH _printf 1 "February 2023" "" "Linux Programmer's Manual"
 .SH NAME
 .B _printf
 - format and print data.
@@ -81,4 +81,4 @@ int _printf(%s\\n,\*(lqHello\*(rq); will read the %s and grab the first argument
 
 
 .SH AUTHOR
-Sidney Burkett, Daniel Kazemian
+Lucy
